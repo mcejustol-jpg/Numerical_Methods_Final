@@ -27,19 +27,7 @@ class Theme:
         'frame_border': '#bdc3c7',
         'hover': '#5dade2'
     }
-    DARK = {
-        'bg': '#0f1117',
-        'fg': '#e6e6e6',
-        'accent': '#8be9fd',
-        'accent_light': '#282a36',
-        'success': '#50fa7b',
-        'warning': '#ffb86c',
-        'error': '#ff5555',
-        'frame_bg': '#161821',
-        'frame_border': '#44475a',
-        'hover': '#6272a4'
-    }
-
+    
 ######################
 # SAFE FUNCTION PARSER
 
